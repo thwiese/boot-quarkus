@@ -1,0 +1,1 @@
+mvn io.quarkus:quarkus-maven-plugin:1.6.1.Final:create -DprojectGroupId=de.twiese -DprojectArtifactId=boot-quarkus -DclassName="de.twiese.boot.quarkus.GreetingResource" -Dpath="/hello"
